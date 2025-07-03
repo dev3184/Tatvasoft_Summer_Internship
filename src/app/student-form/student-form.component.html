@@ -1,0 +1,12 @@
+<div class="container">
+  <h2>Welcome to the Student Registration Form</h2>
+  
+  <input [(ngModel)]="studentName" placeholder="Enter your name"/>
+
+  <button (click)="addStudent()">Submit</button>
+
+  <h3>Registered Students:</h3>
+  <ul>
+    <li *ngFor="let name of studentList">{{ name }}</li>
+  </ul>
+</div>
