@@ -5,6 +5,13 @@
 successfully completed installation and hands on practice of postgresql using pdAdmin dashboard
 # Day-2
 successfully created first angular project student-form app 
+# Day-3
+established a successfull database connection using dotnet and postgresql
+# Day-1 
+implemented Authentication and Authorization using JWT .
+https://github.com/dev3184/mission
+
+
 
 
 
